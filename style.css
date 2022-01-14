@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.mainbox{
+	width: 500px;
+	height: 500px;
+	border: 1px solid;
+	margin: auto;
+	border-radius: 50%;
+	overflow: hidden;
+
+}
+
+
+
+.box1{
+	width: 50%;
+	height: 50%;
+	background: orange;
+	float: left;
+}
+
+.box2{
+	width: 50%;
+	height: 50%;
+	background: blue;
+	float: left;
+}
+
+.box3{
+	width: 50%;
+	height: 50%;
+	background: teal;
+	float: left;
+}
+
+.box4{
+	width: 50%;
+	height: 50%;
+	background: green;
+	float: left;
+}
